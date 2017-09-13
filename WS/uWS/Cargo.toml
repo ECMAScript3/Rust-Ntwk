@@ -1,0 +1,6 @@
+[package]
+name = "uWS"
+version = "0.1.0"
+authors = ["Aaron <amcanalley16@gmail.com>"]
+
+[dependencies]
